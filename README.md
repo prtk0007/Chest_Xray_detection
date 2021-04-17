@@ -20,3 +20,11 @@ Locations of Final notebooks:
 
 6)Scartch CNN 3 (seperable conv) : branch: exp_binary; filename:scratch_cnn_3.ipynb (Latest commit 65aa0af 22 days ago)
                                    pres-91 rec-96.2 f1-93.4 acc-91.5
+
+###For 3 class classification:(Covid vs Normal vs Pneumonia)
+
+1) Scratch CNN 1 (spatial conv) : branch: Covid detect; Filename: scratch_cnn_1.ipynb (Latest commit c23b454 on Mar 5) 
+                                    pres-95 rec-94 f1-94 acc-94
+                                    
+2) VGG-16 (3 class) : branch: Covid detect; Filename: VGG16_3class_acc93.ipynb  (Latest commit a9d1516 on Mar 8)
+                                   pres-94 rec-93 f1-93 acc-93.67
